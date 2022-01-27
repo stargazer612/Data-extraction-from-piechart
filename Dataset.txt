@@ -1,0 +1,20 @@
+We used an already available database by Devi sandeep which he created for a similar project which consisted many images of each type of chart like bargraphs, venn diagrams, piecharts etc.
+We also added 100 images of 3D piechart to the database.
+
+Bargraph 528
+VennDiagram 364
+2D Piechart + 3D piechart 355+100
+ScatterGraph 335
+TreeDiagram 297
+Flowchart 293
+Map 276
+ParetoChart 329
+BubbleChart 311
+LineGraph 300
+AreaGraph 299
+NetworkDiagram 321
+BoxPlot 312
+
+
+Database link: 
+https://drive.google.com/drive/folders/1StL03yvgJsl3xkCxWbYV9x7DPI6q19-j?usp=sharing
