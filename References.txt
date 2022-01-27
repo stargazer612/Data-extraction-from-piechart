@@ -1,0 +1,12 @@
+[1] D. Jung, W. Kim, H. Song, J. Hwang, B. Lee, B. Kim and J. Seo. ChartSense: Interactive Data Extraction from Chart Images. In Proc. of the CHI conference on Human Factors in Computing Systems (ACM),
+
+[2] M. Savva, N. Kong, A. Chhajta, L. Fei-Fei, M. Agrawala, and J. Heer. ReVision: Automated classification, analysis and redesign of chart images.. In Proc. of the 24th Annual ACM Symposium on User Interface
+Software and Technology(UIST’11), pp. 393–402, 2011.
+
+[3] J. Gao, Y. Zhou, and K.E. Barner. View: Visual information extraction widget for improving chart images accessibly. In Proc. of the 19th IEEE International Conference on Image Processing (ICIP’12)
+
+[4] Y. Liu, X. Lu, Y. Qin, Z. Tang, and J. Xu. Review of chart recognition in document images.. In IS&T/SPIE Electronic Imaging, pp. 865410– 865410, 2013. 
+
+[5] W. Huang, R. Liu, and C. L. Tan. Extraction of vectorized graphical information from scientific chart images.. In Proc. of the 9th International Conference on Document Analysis and Recognition (ICDAR’07), pp. 521–525, 2007. 
+
+[6] W. Huang, C. L. Tan, and W. K. Leow. Model-based chart image recognition.. In International Workshop on Graphic Recognition (GREC’03), pp. 87–99, 2003.

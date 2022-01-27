@@ -1,0 +1,9 @@
+numpy 
+pandas
+opencv-python
+matplotlib
+colorama
+pillow
+tensorflow
+webcolors
+skeletonize
